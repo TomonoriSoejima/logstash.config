@@ -1,0 +1,3 @@
+{"health":"yellow","status":"open","index":"tom_found_index","uuid":"ib1o31REShOJZJ9Rkz0YDA","rep":"1","docs.count":"1","docs.deleted":"0","store.size":"8.5kb","pri.store.size":"8.5kb"}
+{"health":"yellow","status":"open","index":"normal_index","uuid":"tw2-Ha0DQK26zMeWVQKxQw","rep":"1","docs.count":"3","docs.deleted":"0","store.size":"22.1kb","pri.store.size":"22.1kb"}
+{"health":"green","status":"open","index":".monitoring-kibana-6-2018.03.29","uuid":"zYSrpEubSym6SzGw0Eqt-Q","rep":"0","docs.count":"232","docs.deleted":"0","store.size":"174.3kb","pri.store.size":"174.3kb"}
