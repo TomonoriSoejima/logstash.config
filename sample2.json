@@ -1,6 +1,6 @@
-{"event":{"severity":5,"created":"2021-03-22T10:09:08.000+08:00","timezone":"+08:00","kind":"alert","module":"dan1","action":"surl_filtering2"}}
+{"event":{"severity":5,"created":"2021-03-22T10:09:08.000+08:00","timezone":"+08:00","kind":"alert","module":"dan1","action":"url_filtering"}}
 {"event":{"severity":5,"created":"2021-03-22T10:09:08.000+08:00","timezone":"+08:00","kind":"alert","module":"dan2","action":"surl_filtering"}}
-{"event":{"severity":5,"created":"2021-03-22T10:09:08.000+08:00","timezone":"+08:00","kind":"alert","module":"dan3","action":"surl_filtering2"}}
+{"event":{"severity":5,"created":"2021-03-22T10:09:08.000+08:00","timezone":"+08:00","kind":"alert","module":"dan3","action":"url_filtering"}}
 {"event":{"severity":5,"created":"2021-03-22T10:09:08.000+08:00","timezone":"+08:00","kind":"alert","module":"dan4","action":"surl_filtering"}}
 
 
